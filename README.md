@@ -2,7 +2,7 @@
 The Comprehensive Retail Sales Analysis dashboard, built with Microsoft Power BI, offers deep insights into sales trends, product performance, and regional distribution. By leveraging key performance indicators and detailed visualizations, it empowers stakeholders to make informed, data-driven decisions for optimizing retail operations.
 
 # Dashboard Preview
-![Dashboard Preview](https://drive.google.com/file/d/1-9z3cvULOrLrcYuxMFdnvjhQ0EfNuoOr/view?usp=sharing)
+![Dashboard Preview](https://drive.google.com/uc?export=view&id=1-9z3cvULOrLrcYuxMFdnvjhQ0EfNuoOr)
 
 Here is a detailed and comprehensive analysis of the provided Power BI dashboard, including key performance indicators (KPIs), diagnostic insights, recommendations, and a conclusion.
 
