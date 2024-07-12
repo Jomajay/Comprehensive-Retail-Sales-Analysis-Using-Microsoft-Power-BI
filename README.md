@@ -102,5 +102,6 @@ Based on the detailed analysis provided by the Retail Sales Analysis dashboard, 
 The **Retail Sales Analysis** Power BI dashboard is an invaluable tool that provides a comprehensive overview of the business’s performance across various dimensions. By leveraging the detailed insights provided, stakeholders can make informed decisions to drive growth, optimize operations, and enhance customer satisfaction. The strategic recommendations based on the dashboard analysis offer actionable steps to capitalize on strengths, address weaknesses, and seize opportunities for future success. By continuously analyzing and refining strategies using this dashboard, the retail business can achieve sustained growth and maintain a competitive edge in the market.
 
 ## Link to the Dashboard
-To interact with the dashboard and explore the data further, please [click here]([https://app.powerbi.com/links/Hg](https://app.powerbi.com/links/Hg_oOgRQrH?ctid=009f81a6-c776-4a98-b42c-0951ae796d92&pbi_source=linkShare)
+
+To interact with the dashboard and explore the data further, please click ![here](https://app.powerbi.com/links/Hg_oOgRQrH?ctid=009f81a6-c776-4a98-b42c-0951ae796d92&pbi_source=linkShare) 
 ---
