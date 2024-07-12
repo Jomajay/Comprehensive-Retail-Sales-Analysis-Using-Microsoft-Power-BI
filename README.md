@@ -103,5 +103,5 @@ The **Retail Sales Analysis** Power BI dashboard is an invaluable tool that prov
 
 ## Link to the Dashboard
 
-To interact with the dashboard and explore the data further, please click ![here](https://app.powerbi.com/links/Hg_oOgRQrH?ctid=009f81a6-c776-4a98-b42c-0951ae796d92&pbi_source=linkShare) 
+To interact with the dashboard and explore the data further, please click [here](https://app.powerbi.com/links/Hg_oOgRQrH?ctid=009f81a6-c776-4a98-b42c-0951ae796d92&pbi_source=linkShare) 
 ---
